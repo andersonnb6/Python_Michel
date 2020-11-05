@@ -1,7 +1,7 @@
 # Linguagem Python
 ## Excercício 1
 
-Crie um progrma que:
+Crie um programa que:
 
 1. Pergunte do usuário "Qual o seu nome?". O nome deve ser guardado em uma variável chamada "nome".
 2. Pergunte do usuário "Qual o seu idade?". O nome deve ser guardado em uma variável chamada "idade".
